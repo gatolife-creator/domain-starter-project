@@ -8,7 +8,7 @@ import ethLogo from "./assets/ethlogo.png";
 import { networks } from "./utils/networks";
 
 // コントラクト
-const TWITTER_HANDLE = "_UNCHAIN";
+const TWITTER_HANDLE = "gatolife81";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const tld = ".gato";
 const CONTRACT_ADDRESS = "0x9C7bfBE3DcDf082dec6B1ED936AF0e860f059b0f";
